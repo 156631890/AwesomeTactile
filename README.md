@@ -38,6 +38,9 @@ Reviews, projects,  hardwares, groups, and papers collection of Tactile:love_you
   - ```This paper concludes vision-based tactile sensor (VBTS), which consists of a contact module, an illumination module, and a camera module and their preparation process and complete manufacturing scheme. Details are presented, and future outlook are discussed.```<br>
   <img width="400" alt="vbts" src="https://user-images.githubusercontent.com/22866605/204210884-ee164b17-bda6-487b-a5b4-bf0f86cc7e04.png"><img width="400" alt="principle" src="https://user-images.githubusercontent.com/22866605/204212351-8bcbdfb3-2925-49b7-b774-add8e8f83453.png">
 
+  2. **RoboSkin Tactile Research Index.** [[website](https://roboskin.ai/research-index)] [[CSV data](https://roboskin.ai/research-index.csv)] [[JSON data](https://roboskin.ai/research-index.json)]
+  - ```A 19-record index of source-linked robot-skin and tactile-AI research, normalized by sensing principle, modality, data output, evidence class, and stated limitations.```
+
 <br>
 
 
